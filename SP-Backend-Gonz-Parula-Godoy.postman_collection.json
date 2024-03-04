@@ -29,7 +29,7 @@
 					"host": [
 						"localhost"
 					],
-					"port": "8000",
+					"port": "8888",
 					"path": [
 						"catalog",
 						"pelea"
@@ -61,7 +61,7 @@
 					"host": [
 						"localhost"
 					],
-					"port": "8082",
+					"port": "8888",
 					"path": [
 						"movies",
 						"pelea"
@@ -154,7 +154,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"prueba\",\n    \"genre\": \"pelea\",\n    \"urlStream\": \"whast\"\n}",
+					"raw": "{\n    \"name\": \"prueba\",\n    \"genre\": \"pelea\",\n    \"urlStream\": \"www.clubdepelea.com\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -197,11 +197,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8000/message",
+					"raw": "localhost:8080/message",
 					"host": [
 						"localhost"
 					],
-					"port": "8000",
+					"port": "8080",
 					"path": [
 						"message"
 					]
@@ -231,11 +231,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8082/message",
+					"raw": "localhost:8888/message",
 					"host": [
 						"localhost"
 					],
-					"port": "8082",
+					"port": "8888",
 					"path": [
 						"message"
 					]
