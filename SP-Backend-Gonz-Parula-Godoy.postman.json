@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "9d3519ec-725d-4e9a-929d-c2aad1afc777",
 		"name": "Backend-Parula-Gonz",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v1.1.0/collection.json",
 		"_exporter_id": "20550546"
 	},
 	"item": [
