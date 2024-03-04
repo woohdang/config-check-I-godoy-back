@@ -9,6 +9,6 @@ spring:
       mvc:
         routes:
           - id: catalogRoute
-            uri: lb://catalog/
+            uri: lb://catalog-service/
             predicates:
               - Path=/catalog/**
